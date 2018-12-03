@@ -1,8 +1,8 @@
 ## About This Fork
 
 This was forked from: https://github.com/mongodb/mongo-java-driver/
-Starting from mongodb 3.6 dots and dollar signes are allowed in fields names but a validation in the maing repository prevents this.
-It was created as a (hopefully) temproary bypass for that dots and dollar signs "bug/improvement": https://jira.mongodb.org/browse/JAVA-2810
+Starting from mongodb 3.6 dots are allowed in fields names but a CollectibleDocumentFieldNameValidator in the main repository prevents that.
+It was created as a (hopefully) temproary bypass for that dots "bug/improvement": https://jira.mongodb.org/browse/JAVA-2810
 
 ## Release Notes
 
