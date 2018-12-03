@@ -1,3 +1,8 @@
+## About This Fork
+
+This was forked from: https://github.com/mongodb/mongo-java-driver/
+It was created as a temproary bypass for this dots and dollar signs "bug/improvement": https://jira.mongodb.org/browse/JAVA-2810
+
 ## Release Notes
 
 Release notes are available [here](https://github.com/mongodb/mongo-java-driver/releases).
